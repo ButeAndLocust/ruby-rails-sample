@@ -2,6 +2,8 @@
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 
+[![CircleCI](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master.svg?style=svg)](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master)
+
 ## Running Locally
 
 Make sure you have [Ruby](https://www.ruby-lang.org), [Bundler](http://bundler.io) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
