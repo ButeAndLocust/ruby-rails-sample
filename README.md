@@ -2,7 +2,8 @@
 
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 
-[![CircleCI](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master.svg?style=svg)](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master)
+
+[![CircleCI](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master.svg?style=shield)](https://circleci.com/gh/ButeAndLocust/ruby-rails-sample/tree/master)
 
 ## Running Locally
 
